@@ -2,7 +2,7 @@
 Exercise for my SQL journey
 
 
-#Roadmap Lengkap untuk Database Administrator (DBA)
+# Roadmap Lengkap untuk Database Administrator (DBA)
 ## 1. Fundamental Skills (1-2 Bulan)
 ### Sebelum masuk ke dunia DBA, kuasai dasar-dasarnya dulu:
 
@@ -14,80 +14,82 @@ Exercise for my SQL journey
 
 - DBMS (Database Management Systems):
 
-- Mulai dari MySQL (open-source & populer buat latihan).
+1. Mulai dari MySQL (open-source & populer buat latihan).
 
-- Lanjut ke PostgreSQL untuk fitur yang lebih advanced.
+2. Lanjut ke PostgreSQL untuk fitur yang lebih advanced.
 
-- Version Control: Belajar Git dasar (buat manage perubahan file dan proyek lo).
+3. Version Control: Belajar Git dasar (buat manage perubahan file dan proyek lo).
 
 ## 2. Intermediate Skills (2-4 Bulan)
 ### Setelah fondasi aman, pelajari hal-hal yang bakal bikin lo lebih kompeten:
 
 - Database Optimization:
 
-- Teknik indexing yang efisien dan query optimization.
+1. Teknik indexing yang efisien dan query optimization.
 
-- Belajar cara mengurangi bottlenecks (EXPLAIN query).
+2. Belajar cara mengurangi bottlenecks (EXPLAIN query).
 
 - Backup & Recovery:
 
-- Simulasi backup database dan restore di MySQL/PostgreSQL.
+1. Simulasi backup database dan restore di MySQL/PostgreSQL.
 
-- Pelajari konsep Point-In-Time Recovery (PITR).
+2. Pelajari konsep Point-In-Time Recovery (PITR).
 
 - Database Security:
 
-- Belajar konsep seperti roles, permissions, dan enkripsi data.
+1. Belajar konsep seperti roles, permissions, dan enkripsi data.
 
-- Setting up user privileges di MySQL/PostgreSQL.
+2. Setting up user privileges di MySQL/PostgreSQL.
 
 - Intro ke NoSQL Databases:
 
-- Pelajari MongoDB, buat memahami kapan NoSQL lebih cocok dibanding SQL.
+-> Pelajari MongoDB, buat memahami kapan NoSQL lebih cocok dibanding SQL.
 
 - Tools tambahan:
 
-- pgAdmin (PostgreSQL), SQL Server Management Studio (SSMS), atau Toad for Oracle.
+1. pgAdmin (PostgreSQL)
+2. SQL Server Management Studio (SSMS),
+3. atau Toad for Oracle.
 
 ## 3. Advanced Skills dan Sertifikasi (3-6 Bulan)
 ### Tingkatkan kemampuan lo dan persiapkan diri buat jadi lebih kompetitif di pasar kerja:
 
 - Database Design dan Architecture:
 
-- Buat desain database untuk skenario nyata (e.g., sistem manajemen inventori).
+-> Buat desain database untuk skenario nyata (e.g., sistem manajemen inventori).
 
 - Performance Tuning:
 
-- Belajar query execution plans dan indexing lanjutan.
+-> Belajar query execution plans dan indexing lanjutan.
 
 - Automasi Database:
 
-- Belajar scripting untuk automasi tugas DBA (Python + SQL, Bash).
+-> Belajar scripting untuk automasi tugas DBA (Python + SQL, Bash).
   
 - Cloud Integration:
 
-- Pahami dasar-dasar database di cloud platforms (AWS RDS, Azure SQL Database, GCP Cloud SQL).
+-> Pahami dasar-dasar database di cloud platforms (AWS RDS, Azure SQL Database, GCP Cloud SQL).
 
 - Sertifikasi yang Direkomendasikan:
 
-- Oracle Certified Associate (OCA).
+1. Oracle Certified Associate (OCA).
 
-- Microsoft Certified: Azure Data Fundamentals.
+2. Microsoft Certified: Azure Data Fundamentals.
 
-- Google Professional Data Engineer (opsional kalau mau eksplor lebih jauh).
+3. Google Professional Data Engineer (opsional kalau mau eksplor lebih jauh).
 
 ## 4. Portfolio & Practical Projects (1-2 Bulan)
 ### Bangun portfolio buat nunjukin kemampuan lo ke calon employer:
 
 - Buat mini-projects, misalnya:
 
-- Sistem database untuk toko online kecil (inventory + penjualan).
+1. Sistem database untuk toko online kecil (inventory + penjualan).
 
-- Desain database HR untuk tracking karyawan.
+2. Desain database HR untuk tracking karyawan.
 
-- Monitoring database performance dan simulasi tuning.
+3. Monitoring database performance dan simulasi tuning.
 
-- Gunakan GitHub buat share proyek lo ke recruiter.
+4. Gunakan GitHub buat share proyek lo ke recruiter.
 
 ## 5. Job Hunting & Networking (Berjalan Paralel)
 - LinkedIn Optimization: Pastikan LinkedIn lo udah lengkap (skills, proyek, sertifikasi).
